@@ -1,1 +1,2 @@
 In file2 Added 1st line in Git hub repo of main branch
+In file2 added 2nd line in Git hub repo of B2 branch
